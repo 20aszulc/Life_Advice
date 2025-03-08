@@ -6,3 +6,11 @@ scripting to automate repetive tasks. esp testing
 build out a diagram or blue print of what u intend to code b4 u code
 log as u go. not print statements. log stayements. prwferably which thread it is involved in
 spend long times in a focused session
+Writing small scripts to automate boring or repetitive workflows
+Pomorodo w green tea
+Interesting one: do not use the debugger (for the most part) except for call stacks. Prefer print and logging statements. Assert statements are your friends
+The biggest bottlenecks to your code: implementing the wrong plan, debugging when its a small error, trying to test while making small changes. Testing SLOWS u down
+Seperate timeblocks for testing and debugging. Sometimes that "almost there" feeling is not actually true and u arent almost there
+KEEP IT SIMPLE STUPID. Writing the least amount of code w the cleanest, simplest solution is best. This will be hard but for other than meetings or learning for note taking
+-> try to type everything that comes across your mind or you think needs to be accomplished
+9swq
